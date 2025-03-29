@@ -33,7 +33,7 @@ Artifact aimed to elevate civilization from their mortality by bringing out [the
 - Terminals can be interacted in same way when no weapon is equipped
 ## Art Style
 Inspirations:
-- [Signalis](https://store.steampowered.com/app/1262350/SIGNALIS/) (GUI, Sci-fi theme)
+- [Signalis](https://store.steampowered.com/app/1262350/SIGNALIS/) (GUI, Sci-fi theme, gameplay loops)
 - [GTFO](https://store.steampowered.com/app/493520/GTFO/) (GUI, Dark atmosphere)
 - [Death Stranding](https://store.steampowered.com/app/1850570/DEATH_STRANDING_DIRECTORS_CUT/) (GUI)
 - [Peripeteia](https://store.steampowered.com/app/1437760/Peripeteia/) (Bleak cyberpunk / Sci-fi atmosphere)
@@ -47,7 +47,6 @@ Inspirations:
 	- quiet
 - Terminals should have old computer sounds
 ## Development Roadmap / Launch Criteria
-
 - Platform
 	- Steam
 	- Demo on Itch.io
@@ -55,7 +54,6 @@ Inspirations:
 	- Survival horror enjoyers
 
 (Development schedule to be determined)
-
 | Milestone          | Day    |
 | ------------------ | ------ |
 | Mechanics complete | 0/0/00 |
