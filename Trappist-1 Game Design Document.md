@@ -22,7 +22,7 @@ Artifact aimed to elevate civilization from their mortality by bringing out [the
 - Players body parts are armored and any direct damage causes permanent corruption
 - Limbs and other body parts that are not destroyed can be looted for components.
 - While readying weapon, player cannot turn but can aim freely on screen
-	- ![[free_aim.gif]]
+	- ![Free aiming](free_aim.gif)
 - Limited inventory space
 - Terminals to use various programs (mail, notes, console, etc.)
 - Various environmental puzzles
