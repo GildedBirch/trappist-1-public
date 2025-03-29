@@ -46,6 +46,15 @@ Inspirations:
 	- calming
 	- quiet
 - Terminals should have old computer sounds
+## Development Tools
+- Game Engine
+	- Godot 4.4
+- Modeling
+	- Blender
+- Art
+	- Asprite
+	- Gimp
+	- Krita
 ## Development Roadmap / Launch Criteria
 - Platform
 	- Steam
