@@ -82,5 +82,9 @@ Inspirations:
 - Platform
 	- Steam
 	- Demo on Itch.io
--  Audience:
+-  Audience
 	- Survival horror enjoyers
+
+- Goals
+	- Playable Demo by 31.12.2025
+ 	- Release on Steam TBD
