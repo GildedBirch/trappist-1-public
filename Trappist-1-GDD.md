@@ -38,6 +38,7 @@ Artifact aimed to elevate civilization from their mortality by bringing out [the
   	- Parts player wants might be where enemys weakpoint is making player to take out enemies with different methods
 - While readying weapon, player cannot turn but can aim freely on screen
 	- Players headgear has aim assistance fuction that enables free targeting
+ 	- Enables easier aiming to different areas without having to look up or down
  	- Normal aiming is boring, so let's try something new
 	- ![Free aiming](free_aim.gif)
 - Limited inventory space
